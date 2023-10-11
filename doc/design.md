@@ -4,7 +4,10 @@
 
 - chain: mumbai
 
-- Auth: login with metamask
+- Auth
+  - login with metamask
+  - use WaaS: particle???
+
 - data on blockchain
   - game record
   - game points - ERC20
@@ -20,4 +23,3 @@
 - some problem
   
   - how to use a 6551 account
-  
